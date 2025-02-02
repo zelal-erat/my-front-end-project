@@ -1,5 +1,219 @@
 {
-    "header":{
-        
+  "en": {
+    "darkMode": "Dark Mode",
+    "lightMode": "Light Mode",
+    "header": {
+      "header_buttons": [
+        {
+          "id": "skills",
+          "text": "Skills",
+          "link": "#skills-section"
+        },
+        {
+          "id": "projects",
+          "text": "Projects",
+          "link": "#projects-section"
+        },
+        {
+          "id": "hire-me",
+          "text": "Hire Me",
+          "link": "#hire-section"
+        }
+      ]
+    },
+    "heroSection": {
+      "intro": "Creative thinker, minimalism lover",
+      "description": "Hi! I'm Almilla. I'm a full-stack developer. If you are looking for a Developer who crafts solid and scalable frontend products with great user experiences, let's shake hands.",
+      "profileImage": "./images/profile.png",
+      "socials": [
+        {
+          "platform": "GitHub",
+          "link": "https://github.com/",
+          "icon": ".images/github-icon.png"
+        },
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/",
+          "icon": "linkedin-icon.png"
+        }
+      ],
+      "hireMe": "Hire me"
+    },
+    "skillsSection": {
+      "title": "Skills",
+      "skills": [
+        {
+          "title": "Java Script",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+        },
+        {
+          "title": "React.Js",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+        },
+        {
+          "title": "Node.js",
+          "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+        }
+      ]
+    },
+    "profileSection": {
+      "title": "Profile",
+      "personalInfo": [
+        { "label": "Date of Birth", "value": "24.03.1993" },
+        { "label": "City", "value": "Ankara" },
+        { "label": "Education", "value": "Hacettepe University, Biology Bachelor's, 2016" },
+        { "label": "Preferred Role", "value": "Frontend, UI" }
+      ],
+      "aboutMe": {
+        "title": "About Me",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Veniam aut, odit laborum aliquam voluptatum nisi molilita."
+      }
+    },
+    "projectsTitle": "Projects", 
+    "workintech": {
+      "title": "Workintech",
+      "description": "A simple, customizable cookie consent plugin...",
+      "technologies": ["react", "redux", "axios"],
+      "github": "GitHub",
+      "viewSite": "View Site",
+      "githubLink": "https://github.com/yourusername/workintech",
+      "viewSiteLink": "https://workintech.com"
+    },
+    "randomJokes": {
+      "title": "Random Jokes",
+      "description": "A random jokes API that fetches funny jokes from the internet...",
+      "technologies": ["react", "node", "express"],
+      "github": "GitHub",
+      "viewSite": "View Site",
+      "githubLink": "https://github.com/yourusername/random-jokes",
+      "viewSiteLink": "https://randomjokes.com"
+    },
+    "journeyProject": {
+      "title": "Journey",
+      "description": "A travel log app to document your journey...",
+      "technologies": ["react", "firebase", "redux"],
+      "github": "GitHub",
+      "viewSite": "View Site",
+      "githubLink": "https://github.com/yourusername/journey",
+      "viewSiteLink": "https://journeyapp.com"
+    },
+    "footer": {
+      "workTogether": "Let's work together on your next product.",
+      "email": "almilasucode@ganil.com",
+      "socialLinks": {
+        "blog": "Personal blog",
+        "github": "GitHub",
+        "linkedin": "LinkedIn"
+      }
     }
+  },
+  "tr": {
+   
+    "darkMode": "Karanlık Mod",
+    "lightMode": "Aydınlık Mod",
+    "header": {
+      "header_buttons": [
+        {
+          "id": "skills",
+          "text": "Yetenkler",
+          "link": "#skills-section"
+        },
+        {
+          "id": "projects",
+          "text": "Projeler",
+          "link": "#projects-section"
+        },
+        {
+          "id": "hire-me",
+          "text": "Beni işe al",
+          "link": "#hire-section"
+        }
+      ]
+    },
+    "heroSection": {
+      "intro": "Yaratıcı düşünür, minimalizm tutkunuyum",
+      "description": "Merhaba! Ben Almilla. Full-stack geliştiricisiyim. Eğer sağlam ve ölçeklenebilir frontend ürünleri yaratacak, harika kullanıcı deneyimleri sunacak bir geliştirici arıyorsanız, gelin tanışalım.",
+     "profileImage": "./images/profile.png",
+      "socials": [
+        {
+          "platform": "GitHub",
+          "link": "https://github.com/",
+          "icon": "github-icon.png"
+        },
+        {
+          "platform": "LinkedIn",
+          "link": "https://linkedin.com/",
+          "icon": "linkedin-icon.png"
+        }
+      ],
+      "hireMe": "Beni işe al"
+    },
+    "skillsSection": {
+      "title": "Yetenekler",
+      "skills": [
+        {
+          "title": "JavaScript",
+          "description": "JavaScript, web geliştirme için yaygın olarak kullanılan bir programlama dilidir."
+        },
+        {
+          "title": "React.Js",
+          "description": "React, kullanıcı arayüzleri oluşturmak için kullanılan bir JavaScript kütüphanesidir."
+        },
+        {
+          "title": "Node.js",
+          "description": "Node.js, sunucu tarafında JavaScript çalıştırmak için kullanılan bir platformdur."
+        }
+      ]
+    },
+    "profileSection": {
+      "title": "Profil",
+      "personalInfo": [
+        { "label": "Doğum Tarihi", "value": "24.03.1993" },
+        { "label": "Şehir", "value": "Ankara" },
+        { "label": "Eğitim", "value": "Hacettepe Üniversitesi, Biyoloji Lisans, 2016" },
+        { "label": "Tercih Edilen Rol", "value": "Frontend, UI" }
+      ],
+      "aboutMe": {
+        "title": "Hakkımda",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Veniam aut, odit laborum aliquam voluptatum nisi molilita."
+      }
+    },
+    "projectsTitle": "Projeler", 
+    "workintech": {
+      "title": "Workintech",
+      "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmelerini sağlayan...",
+      "technologies": ["react", "redux", "axios"],
+      "github": "GitHub",
+      "viewSite": "Siteyi Görüntüle",
+      "githubLink": "https://github.com/yourusername/workintech",
+      "viewSiteLink": "https://workintech.com"
+    },
+    "randomJokes": {
+      "title": "Rastgele Şakalar",
+      "description": "Birçok komik şaka içeren bir API...",
+      "technologies": ["react", "node", "express"],
+      "github": "GitHub",
+      "viewSite": "Siteyi Görüntüle",
+      "githubLink": "https://github.com/yourusername/random-jokes",
+      "viewSiteLink": "https://randomjokes.com"
+    },
+    "journeyProject": {
+      "title": "Seyahat Günlüğü",
+      "description": "Seyahatinizi belgelemek için bir uygulama...",
+      "technologies": ["react", "firebase", "redux"],
+      "github": "GitHub",
+      "viewSite": "Siteyi Görüntüle",
+      "githubLink": "https://github.com/yourusername/journey",
+      "viewSiteLink": "https://journeyapp.com"
+    },
+    "footer": {
+      "workTogether": "Bir sonraki ürününüz üzerinde birlikte çalışalım.",
+      "email": "almilasucode@ganil.com",
+      "socialLinks": {
+        "blog": "Kişisel blog",
+        "github": "GitHub",
+        "linkedin": "LinkedIn"
+      }
+    }
+  }
 }
