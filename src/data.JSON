@@ -29,12 +29,12 @@
         {
           "platform": "GitHub",
           "link": "https://github.com/",
-          "icon": ".images/github-icon.png"
+          "icon": "./images/github-icon.png"
         },
         {
           "platform": "LinkedIn",
           "link": "https://linkedin.com/",
-          "icon": "linkedin-icon.png"
+          "icon": "./images/linkedin.png"
         }
       ],
       "hireMe": "Hire me"
