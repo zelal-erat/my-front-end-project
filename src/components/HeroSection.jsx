@@ -1,7 +1,3 @@
-
-
-
-
 import { useContext } from "react";
 import { SettingsContext } from "../contexts/SettingsContext";
 
@@ -11,9 +7,9 @@ export default function HeroSection() {
   return (
     <div className="hero-section">
       <div className="hero-about">
-        <h2>{translations.heroSection.intro}</h2> {/* Dinamik intro metni */}
+        <h2 className="text-red-200">{translations.heroSection.intro}</h2> {/* Dinamik intro metni */}
         <p>{translations.heroSection.description}</p> {/* Dinamik açıklama metni */}
-        <img src={translations.heroSection.profileImage} alt="profile" />
+        <img src={translations.heroSection.profileImage} alt="profile" className="w-0 h-0"/>
         
         <div className="socials">
           {translations.heroSection.socials.map((social, index) => (

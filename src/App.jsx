@@ -1,6 +1,7 @@
 
 import './App.css'
-import './index.css';  // veya './App.css'
+
+
 
 import Footer from './components/Footer'
 import Header from './components/Header'

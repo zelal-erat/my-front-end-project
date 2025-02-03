@@ -7,8 +7,8 @@ export default function Footer() {
 
   return (
     <div className="foot-section">
-      <div className="bg-red-500 text-red">
-        <h2>{translations.footer.workTogether}</h2> {/* Dinamik olarak footer başlığı */}
+      <div className="border-solid ">
+        <h2 className='text-2xl'>{translations.footer.workTogether}</h2> {/* Dinamik olarak footer başlığı */}
         <p>{translations.footer.email}</p> {/* Dinamik olarak e-posta */}
       </div>
       <div className="footer-social-links">
