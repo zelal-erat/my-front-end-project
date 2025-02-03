@@ -77,25 +77,28 @@
       "github": "GitHub",
       "viewSite": "View Site",
       "githubLink": "https://github.com/yourusername/workintech",
-      "viewSiteLink": "https://workintech.com"
+      "viewSiteLink": "https://workintech.com",
+      "workintechimg":"./images/workintech.png"
     },
     "randomJokes": {
       "title": "Random Jokes",
       "description": "A random jokes API that fetches funny jokes from the internet...",
-      "technologies": ["react", "node", "express"],
+      "technologies": ["react", "redux", "axios"],
       "github": "GitHub",
       "viewSite": "View Site",
       "githubLink": "https://github.com/yourusername/random-jokes",
-      "viewSiteLink": "https://randomjokes.com"
+      "viewSiteLink": "https://randomjokes.com",
+      "random":"./images/random.png"
     },
     "journeyProject": {
       "title": "Journey",
       "description": "A travel log app to document your journey...",
-      "technologies": ["react", "firebase", "redux"],
+      "technologies": ["react", "redux", "axios"],
       "github": "GitHub",
       "viewSite": "View Site",
       "githubLink": "https://github.com/yourusername/journey",
-      "viewSiteLink": "https://journeyapp.com"
+      "viewSiteLink": "https://journeyapp.com",
+      "journey":"./images/journey.png"
     },
     "footer": {
       "workTogether": "Let's work together on your next product.",
@@ -138,12 +141,12 @@
         {
           "platform": "GitHub",
           "link": "https://github.com/",
-          "icon": "github-icon.png"
+          "icon": "./images/github-icon.png"
         },
         {
           "platform": "LinkedIn",
           "link": "https://linkedin.com/",
-          "icon": "linkedin-icon.png"
+          "icon": "./images/linkedin.png"
         }
       ],
       "hireMe": "Beni işe al"
@@ -186,25 +189,28 @@
       "github": "GitHub",
       "viewSite": "Siteyi Görüntüle",
       "githubLink": "https://github.com/yourusername/workintech",
-      "viewSiteLink": "https://workintech.com"
+      "viewSiteLink": "https://workintech.com",
+       "workintechimg":"./images/workintech.png"
     },
     "randomJokes": {
       "title": "Rastgele Şakalar",
       "description": "Birçok komik şaka içeren bir API...",
-      "technologies": ["react", "node", "express"],
+      "technologies": ["react", "redux", "axios"],
       "github": "GitHub",
       "viewSite": "Siteyi Görüntüle",
       "githubLink": "https://github.com/yourusername/random-jokes",
-      "viewSiteLink": "https://randomjokes.com"
+      "viewSiteLink": "https://randomjokes.com",
+       "random":"./images/random.png"
     },
     "journeyProject": {
       "title": "Seyahat Günlüğü",
       "description": "Seyahatinizi belgelemek için bir uygulama...",
-      "technologies": ["react", "firebase", "redux"],
+      "technologies": ["react", "redux", "axios"],
       "github": "GitHub",
       "viewSite": "Siteyi Görüntüle",
       "githubLink": "https://github.com/yourusername/journey",
-      "viewSiteLink": "https://journeyapp.com"
+      "viewSiteLink": "https://journeyapp.com",
+      "journey":"./images/journey.png"
     },
     "footer": {
       "workTogether": "Bir sonraki ürününüz üzerinde birlikte çalışalım.",

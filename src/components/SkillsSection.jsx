@@ -7,13 +7,13 @@ export default function SkillsSection() {
   const skills = translations.skillsSection.skills; // doğru yerden al
 
   return (
-    <div className="skillsSection">
-      <h1>{translations.skillsSection.title}</h1>
-      <div className="skills">
+    <div className="flex flex-col ml-[70px] mr-[70px]">
+      <h1 className="text-4xl font-bold" >{translations.skillsSection.title}</h1>
+      <div className="gap-8 flex">
         {skills.map((skill, index) => (
-          <div key={index} className="box">
-            <h2>{skill.title}</h2>
-            <p>{skill.description}</p>
+          <div key={index} className="box ">
+            <h2 className="text-xl text-[#4338CA] font-medium mt-[10px] mb-[10px] " >{skill.title}</h2>
+            <p className="w-[350px]" >{skill.description}</p>
           </div>
         ))}
       </div>
