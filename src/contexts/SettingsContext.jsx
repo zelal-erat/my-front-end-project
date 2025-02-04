@@ -1,5 +1,5 @@
 import React, { createContext, useState, useEffect } from 'react';
-import data from '../data.json';
+import data from '../../data.json';
 
 export const SettingsContext = createContext();
 
@@ -22,6 +22,7 @@ const SettingsContextProvider = ({ children }) => {
       setDarkMode(storedDarkMode);
       document.body.classList.toggle('dark', storedDarkMode);
     }
+    
 
     setLanguage(languageToUse);
     setTranslations(data[languageToUse]);
@@ -43,6 +44,7 @@ const SettingsContextProvider = ({ children }) => {
     localStorage.setItem('language', lang);
   };
 
+  
   return (
     <SettingsContext.Provider
       value={{

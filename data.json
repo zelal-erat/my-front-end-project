@@ -72,7 +72,7 @@
     "projectsTitle": "Projects", 
     "workintech": {
       "title": "Workintech",
-      "description": "A simple, customizable cookie consent plugin...",
+      "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.   ",
       "technologies": ["react", "redux", "axios"],
       "github": "GitHub",
       "viewSite": "View Site",
@@ -82,7 +82,7 @@
     },
     "randomJokes": {
       "title": "Random Jokes",
-      "description": "A random jokes API that fetches funny jokes from the internet...",
+      "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible.   .",
       "technologies": ["react", "redux", "axios"],
       "github": "GitHub",
       "viewSite": "View Site",
@@ -92,7 +92,7 @@
     },
     "journeyProject": {
       "title": "Journey",
-      "description": "A travel log app to document your journey...",
+      "description": "A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible",
       "technologies": ["react", "redux", "axios"],
       "github": "GitHub",
       "viewSite": "View Site",
@@ -102,7 +102,7 @@
     },
     "footer": {
       "workTogether": "Let's work together on your next product.",
-      "email": "almilasucode@ganil.com",
+      "email": "almilasucode@gmail.com",
       "socialLinks": {
         "blog": "Personal blog",
         "github": "GitHub",
@@ -184,7 +184,7 @@
     "projectsTitle": "Projeler", 
     "workintech": {
       "title": "Workintech",
-      "description": "Kullanıcılarınızın hangi çerezleri kabul edeceğini veya reddedeceğini seçmelerini sağlayan...",
+      "description": "Kullanıcılarınızın hangi çerezleri kabul edip etmeyeceklerini seçmelerine olanak tanıyan, basit, özelleştirilebilir ve minimal bir çerez eklentisi. Bu, vanilla JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur. Git deposu, herhangi bir türde kod ve tema özelleştirmesinin yapılmasını mümkün kılar.",
       "technologies": ["react", "redux", "axios"],
       "github": "GitHub",
       "viewSite": "Siteyi Görüntüle",
@@ -194,7 +194,7 @@
     },
     "randomJokes": {
       "title": "Rastgele Şakalar",
-      "description": "Birçok komik şaka içeren bir API...",
+      "description": "Kullanıcılarınızın hangi çerezleri kabul edip etmeyeceklerini seçmelerine olanak tanıyan, basit, özelleştirilebilir ve minimal bir çerez eklentisi. Bu, vanilla JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur. Git deposu, herhangi bir türde kod ve tema özelleştirmesinin yapılmasını mümkün kılar.",
       "technologies": ["react", "redux", "axios"],
       "github": "GitHub",
       "viewSite": "Siteyi Görüntüle",
@@ -204,7 +204,7 @@
     },
     "journeyProject": {
       "title": "Seyahat Günlüğü",
-      "description": "Seyahatinizi belgelemek için bir uygulama...",
+      "description": "Kullanıcılarınızın hangi çerezleri kabul edip etmeyeceklerini seçmelerine olanak tanıyan, basit, özelleştirilebilir ve minimal bir çerez eklentisi. Bu, vanilla JS, SCSS ve Parcel Bundler ile oluşturulmuştur ve bir NPM paketi olarak mevcuttur. Git deposu, herhangi bir türde kod ve tema özelleştirmesinin yapılmasını mümkün kılar.",
       "technologies": ["react", "redux", "axios"],
       "github": "GitHub",
       "viewSite": "Siteyi Görüntüle",
@@ -214,7 +214,7 @@
     },
     "footer": {
       "workTogether": "Bir sonraki ürününüz üzerinde birlikte çalışalım.",
-      "email": "almilasucode@ganil.com",
+      "email": "almilasucode@gmail.com",
       "socialLinks": {
         "blog": "Kişisel blog",
         "github": "GitHub",
