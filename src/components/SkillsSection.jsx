@@ -13,7 +13,7 @@ export default function SkillsSection() {
         {skills?.map((skill, index) => (
           <div key={index} className="box ">
             <h2 className="text-xl text-[#4338CA] font-medium mt-[10px] mb-[10px] " >{skill.title}</h2>
-            <p className="w-[350px]" >{skill.description}</p>
+            <p className="w-[350px] text-[#6B7280]" >{skill.description}</p>
           </div>
         ))}
       </div>

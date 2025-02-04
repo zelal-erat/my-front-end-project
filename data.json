@@ -3,6 +3,7 @@
     "darkMode": "Dark Mode",
     "lightMode": "Light Mode",
     "header": {
+      "logo":"./images/logo.png",
       "header_buttons": [
         {
           "id": "skills",
@@ -22,6 +23,7 @@
       ]
     },
     "heroSection": {
+       "name":"Almila",
       "intro": "Creative thinker, minimalism lover",
       "description": "Hi! I'm Almilla. I'm a full-stack developer. If you are looking for a Developer who crafts solid and scalable frontend products with great user experiences, let's shake hands.",
       "profileImage": "./images/profile.png",
@@ -66,7 +68,7 @@
       ],
       "aboutMe": {
         "title": "About Me",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Veniam aut, odit laborum aliquam voluptatum nisi molilita."
+        "content": " I am a passionate developer with a love for software development. With my interest in new technologies and problem-solving skills, I aim to create effective and efficient solutions. I am always eager to learn and improve. I am a team player, creative, and detail-oriented professional."
       }
     },
     "projectsTitle": "Projects", 
@@ -115,6 +117,7 @@
     "darkMode": "Karanlık Mod",
     "lightMode": "Aydınlık Mod",
     "header": {
+      "logo":"./images/logo.png",
       "header_buttons": [
         {
           "id": "skills",
@@ -134,6 +137,7 @@
       ]
     },
     "heroSection": {
+       "name":"Almila",
       "intro": "Yaratıcı düşünür, minimalizm tutkunuyum",
       "description": "Merhaba! Ben Almilla. Full-stack geliştiricisiyim. Eğer sağlam ve ölçeklenebilir frontend ürünleri yaratacak, harika kullanıcı deneyimleri sunacak bir geliştirici arıyorsanız, gelin tanışalım.",
      "profileImage": "./images/profile.png",
@@ -178,7 +182,7 @@
       ],
       "aboutMe": {
         "title": "Hakkımda",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Veniam aut, odit laborum aliquam voluptatum nisi molilita."
+        "content": " Ben, yazılım geliştirmeye tutkulu bir yazılımcıyım. Yeni teknolojilere olan ilgim ve problem çözme becerilerim sayesinde etkili ve verimli çözümler üretmeyi hedefliyorum. Sürekli öğrenmeye ve gelişmeye açık bir yapım var. Takım çalışmasına yatkın, yaratıcı ve detaylara önem veren bir profesyonelim."
       }
     },
     "projectsTitle": "Projeler", 

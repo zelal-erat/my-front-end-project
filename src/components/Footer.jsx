@@ -6,7 +6,7 @@ export default function Footer() {
   const { translations } = useContext(SettingsContext);
 
   return (
-    <div className="flex justify-between items-center pr-16 pl-16 h-55 bg-[#F9F9F9]">
+    <div className="flex justify-between items-center pr-16 pl-16 h-65 bg-[#F9F9F9]">
       <div className="">
         <h2 className='text-4xl font-bold mb-[40px] w-[60%]'>{translations?.footer?.workTogether}</h2> {/* Dinamik olarak footer başlığı */}
         <p>
