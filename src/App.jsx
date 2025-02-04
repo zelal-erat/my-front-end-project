@@ -1,7 +1,4 @@
-
 import './App.css'
-
-
 
 import Footer from './components/Footer'
 import Header from './components/Header'
@@ -11,23 +8,22 @@ import ProjectSection from './components/ProjectSection'
 import SkillsSection from './components/SkillsSection'
 
 import SettingsContextProvider from './contexts/SettingsContext'
+import { ToastContainer } from 'react-toastify'; // ToastContainer'ı import et
 
 function App() {
-  
-  
-
   return (
     <SettingsContextProvider>
-    <Header/>
-    <HeroSection/>
-    <SkillsSection/>
-    <ProfileSection/>
-    <ProjectSection/>
-    <Footer/>
-    </SettingsContextProvider>
-  
+      {/* Toast mesajları için ToastContainer ekledik */}
+      <ToastContainer position="top-right" autoClose={5000} />
 
-   
+      {/* Diğer bileşenler */}
+      <Header />
+      <HeroSection />
+      <SkillsSection />
+      <ProfileSection />
+      <ProjectSection />
+      <Footer />
+    </SettingsContextProvider>
   )
 }
 
