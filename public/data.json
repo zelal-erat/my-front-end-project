@@ -2,6 +2,8 @@
   "en": {
     "darkMode": "Dark Mode",
     "lightMode": "Light Mode",
+    "switchToTurkish": "Türkçe'ye geç",
+   
     "header": {
       "logo":"/images/logo.png",
       "header_buttons": [
@@ -116,6 +118,8 @@
    
     "darkMode": "Karanlık Mod",
     "lightMode": "Aydınlık Mod",
+  
+    "switchToEnglish": "Switch to English",
     "header": {
       "logo":"/images/logo.png",
       "header_buttons": [
