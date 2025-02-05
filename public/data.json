@@ -3,7 +3,7 @@
     "darkMode": "Dark Mode",
     "lightMode": "Light Mode",
     "header": {
-      "logo":"./images/logo.png",
+      "logo":"/images/logo.png",
       "header_buttons": [
         {
           "id": "skills",
@@ -26,17 +26,17 @@
        "name":"Almila",
       "intro": "Creative thinker, minimalism lover",
       "description": "Hi! I'm Almilla. I'm a full-stack developer. If you are looking for a Developer who crafts solid and scalable frontend products with great user experiences, let's shake hands.",
-      "profileImage": "./images/profile.png",
+      "profileImage": "/images/profile.png",
       "socials": [
         {
           "platform": "GitHub",
           "link": "https://github.com/",
-          "icon": "./images/github-icon.png"
+          "icon": "/images/github-icon.png"
         },
         {
           "platform": "LinkedIn",
           "link": "https://linkedin.com/",
-          "icon": "./images/linkedin.png"
+          "icon": "/images/linkedin.png"
         }
       ],
       "hireMe": "Hire me"
@@ -80,7 +80,7 @@
       "viewSite": "View Site",
       "githubLink": "https://github.com/yourusername/workintech",
       "viewSiteLink": "https://workintech.com",
-      "workintechimg":"./images/workintech.png"
+      "workintechimg":"/images/workintech.png"
     },
     "randomJokes": {
       "title": "Random Jokes",
@@ -90,7 +90,7 @@
       "viewSite": "View Site",
       "githubLink": "https://github.com/yourusername/random-jokes",
       "viewSiteLink": "https://randomjokes.com",
-      "random":"./images/random.png"
+      "random":"/images/random.png"
     },
     "journeyProject": {
       "title": "Journey",
@@ -100,7 +100,7 @@
       "viewSite": "View Site",
       "githubLink": "https://github.com/yourusername/journey",
       "viewSiteLink": "https://journeyapp.com",
-      "journey":"./images/journey.png"
+      "journey":"/images/journey.png"
     },
     "footer": {
       "workTogether": "Let's work together on your next product.",
@@ -117,7 +117,7 @@
     "darkMode": "Karanlık Mod",
     "lightMode": "Aydınlık Mod",
     "header": {
-      "logo":"./images/logo.png",
+      "logo":"/images/logo.png",
       "header_buttons": [
         {
           "id": "skills",
@@ -140,17 +140,17 @@
        "name":"Almila",
       "intro": "Yaratıcı düşünür, minimalizm tutkunuyum",
       "description": "Merhaba! Ben Almilla. Full-stack geliştiricisiyim. Eğer sağlam ve ölçeklenebilir frontend ürünleri yaratacak, harika kullanıcı deneyimleri sunacak bir geliştirici arıyorsanız, gelin tanışalım.",
-     "profileImage": "./images/profile.png",
+     "profileImage": "/images/profile.png",
       "socials": [
         {
           "platform": "GitHub",
           "link": "https://github.com/",
-          "icon": "./images/github-icon.png"
+          "icon": "/images/github-icon.png"
         },
         {
           "platform": "LinkedIn",
           "link": "https://linkedin.com/",
-          "icon": "./images/linkedin.png"
+          "icon": "/images/linkedin.png"
         }
       ],
       "hireMe": "Beni işe al"
@@ -194,7 +194,7 @@
       "viewSite": "Siteyi Görüntüle",
       "githubLink": "https://github.com/yourusername/workintech",
       "viewSiteLink": "https://workintech.com",
-       "workintechimg":"./images/workintech.png"
+       "workintechimg":"/images/workintech.png"
     },
     "randomJokes": {
       "title": "Rastgele Şakalar",
@@ -204,7 +204,7 @@
       "viewSite": "Siteyi Görüntüle",
       "githubLink": "https://github.com/yourusername/random-jokes",
       "viewSiteLink": "https://randomjokes.com",
-       "random":"./images/random.png"
+       "random":"/images/random.png"
     },
     "journeyProject": {
       "title": "Seyahat Günlüğü",
@@ -214,7 +214,7 @@
       "viewSite": "Siteyi Görüntüle",
       "githubLink": "https://github.com/yourusername/journey",
       "viewSiteLink": "https://journeyapp.com",
-      "journey":"./images/journey.png"
+      "journey":"/images/journey.png"
     },
     "footer": {
       "workTogether": "Bir sonraki ürününüz üzerinde birlikte çalışalım.",
