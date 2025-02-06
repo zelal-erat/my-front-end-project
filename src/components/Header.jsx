@@ -5,7 +5,7 @@ function Header() {
   const { darkMode, toggleDarkMode, language, changeLanguage, translations } = useContext(SettingsContext);
 
   return (
-    <header className={`${darkMode ? 'header dark' : 'header light'} mr-[80px]`}>
+    <header className={` mr-[80px]`}>
       <div className="header-settings flex gap-5 justify-end mt-2.5">
         {/* Dark Mode Switch */}
         <div className="toggle-container flex items-center gap-2">
@@ -53,7 +53,7 @@ function Header() {
           {translations.header &&
             translations.header.header_buttons &&
             translations.header.header_buttons.map((button) => (
-              <a key={button.id} href={button.link} className="p-[0.2rem] px-[0.8rem]">
+              <a key={button.id} href={button.link} className="p-[0.2rem] px-[0.8rem] ">
                 {button.text}
               </a>
             ))}
