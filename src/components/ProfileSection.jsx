@@ -4,6 +4,8 @@ import { SettingsContext } from "../contexts/SettingsContext";
 export default function ProfileSection() {
   const { translations } = useContext(SettingsContext);
   const { title, personalInfo, aboutMe } = translations?.profileSection || {};
+  // 'translations' içinde 'profileSection' verisini alıyoruz. 'title', 'personalInfo' ve 'aboutMe' bu veri içinde yer alacak.
+  // Eğer 'translations' veya 'profileSection' undefined ise, boş bir obje dönecek.
 
   return (
     <div className="ml-[70px] mr-[70px] mt-[70px]">
