@@ -1,5 +1,19 @@
-
+/* Dark mode styles */
 body.dark {
-  background-color: #121212;
-  color: white;
+  background-color: #121212 ;
+  color: white ;
+      min-width: min-content;
+}
+body {
+  background-color: white;
+  color: black;
+}
+
+/* Tüm sayfa wrapper'ı için stil */
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  /* Safari için fix */
+  min-height: -webkit-fill-available;
 }
