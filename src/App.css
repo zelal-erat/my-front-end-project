@@ -1,12 +1,13 @@
-/* Dark mode styles */
+
+body {
+  background-color: white;
+  color: black;
+}
+
 body.dark {
   background-color: #121212 ;
   color: white ;
       min-width: min-content;
-}
-body {
-  background-color: white;
-  color: black;
 }
 
 /* Tüm sayfa wrapper'ı için stil */
